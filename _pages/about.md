@@ -11,7 +11,6 @@ redirect_from:
 I am currently a Ph.D. Student at Johns Hopkins University, Department of Applied Mathematics and Statistics. My advisor is James C. Spall. My current research interests include:
 
 -s
-
 -s
 
 A data-driven personal website
