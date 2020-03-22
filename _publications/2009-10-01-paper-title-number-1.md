@@ -1,7 +1,7 @@
 ---
 title: "SPSA Method Using Diagonalized Hessian Estimate"
 collection: publications
-permalink: /publication/2019-spsa.md
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2019
 venue: '2019 IEEE 58th Conference on Decision and Control (CDC)'
