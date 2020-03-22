@@ -39,9 +39,9 @@ Education
  
 Service
 ===
- - Auxiliary reviewer
-  - SIMULTECH conference
-  - IEEE Transactions on Industrial Electronics
- - Student Representative
-  - 2018 Whiting School of Engineering Graduate Committee in Johns Hopkins University
+ * Auxiliary reviewer
+  * SIMULTECH conference
+  * IEEE Transactions on Industrial Electronics
+ * Student Representative
+  * 2018 Whiting School of Engineering Graduate Committee in Johns Hopkins University
 
