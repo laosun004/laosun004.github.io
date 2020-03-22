@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+Ph.D. Student/
+Applied Mathematics and Statistics
+
+
 
 About
 ===
