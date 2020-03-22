@@ -16,7 +16,7 @@ Contact
 ---
 306G Whitehead Hall\\
 3400 North Charles Street\\
-Baltimore, MD 21218-2682\\
+Baltimore, MD 21218-2682
 
 
 
