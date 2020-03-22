@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Shiqing's Page"
 title_separator          : "-"
-name                     : &name "Shiqing (Warren) Sun"
-description              : &description "personal description"
+name                     : &name "Shiqing Sun"
+description              : &description "PhD Student at Johns Hopkins University"
 url                      : https://laosun004.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "laosun004/laosun004.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shiqing Sun"
   avatar           : "selfie2.jpg"
-  bio              : "PhD Student \n Applied Mathematics and Statistics \n Johns Hopkins University"
+  bio              : "PhD Student at Johns Hopkins University"
   location         : "Baltimore-US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
