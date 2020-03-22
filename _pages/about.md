@@ -8,8 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. Student/
-Applied Mathematics and Statistics
+Ph.D. Student\
+Applied Mathematics and Statistics\
+Johns Hopkins University\
+
+\\
+306G Whitehead Hall
+3400 North Charles Street
+Baltimore, MD 21218-2682
+
 
 
 
