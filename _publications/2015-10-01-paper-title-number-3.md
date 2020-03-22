@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "SPSA Method Using Diagonalized Hessian Estimate"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2019
+venue: '2019 IEEE 58th Conference on Decision and Control (CDC)'
+paperurl: 'https://ieeexplore.ieee.org/document/9029707'
+citation: 'Sun, S., & Spall, J. C. (2019, December). &quot;SPSA Method Using Diagonalized Hessian Estimate.&quot; <i>2019 IEEE 58th Conference on Decision and Control (CDC)</i>. (pp. 4922-4927). IEEE'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://ieeexplore.ieee.org/document/9029707)
+
+Recommended citation: Sun, S., & Spall, J. C. (2019, December). SPSA Method Using Diagonalized Hessian Estimate <i>2019 IEEE 58th Conference on Decision and Control (CDC)</i>. (pp. 4922-4927). IEEE
