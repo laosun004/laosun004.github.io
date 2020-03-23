@@ -23,7 +23,7 @@ Baltimore, MD 21218-2682
 
 About
 ---
-I am currently a Ph.D. Student at Johns Hopkins University, Department of Applied Mathematics and Statistics. My advisor is James C. Spall. My current research interests include:
+I am currently a Ph.D. Student at Johns Hopkins University, Department of Applied Mathematics and Statistics. My advisor is [James C. Spall](http://www.ams.jhu.edu/~spall/Personal/). My current research interests include:
  - Stochastic Optimization
  - Statistical Learning
  - Automated Machine Learning
