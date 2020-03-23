@@ -22,7 +22,7 @@ Baltimore, MD 21218-2682
 
 
 About
-===
+---
 I am currently a Ph.D. Student at Johns Hopkins University, Department of Applied Mathematics and Statistics. My advisor is James C. Spall. My current research interests include:
  - Stochastic Optimization
  - Statistical Learning
@@ -32,13 +32,13 @@ On the theoretical side, my research focuses on designing stochastic optimizatio
 
 
 Education
-===
- - 2022(Estimated), Ph.D. in Applied Mathematics and Statistics, Johns Hopkins University
- - 2018, M.S.E. in Financial Mathematics, Johns Hopkins University
- - 2016, B.S. in Mathematics and Applied Mathematics, Fudan University
+---
+ * 2022(Estimated), Ph.D. in Applied Mathematics and Statistics, Johns Hopkins University
+ * 2018, M.S.E. in Financial Mathematics, Johns Hopkins University
+ * 2016, B.S. in Mathematics and Applied Mathematics, Fudan University
  
 Service
-===
+---
  * Auxiliary reviewer
     * SIMULTECH conference
     * IEEE Transactions on Industrial Electronics
