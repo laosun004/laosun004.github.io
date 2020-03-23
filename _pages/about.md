@@ -28,7 +28,7 @@ I am currently a Ph.D. Student at Johns Hopkins University, Department of Applie
  - Statistical Learning
  - Automated Machine Learning
  
-On the theoretical side, my research focuses on designing stochastic optimization algorithms (gradient-based or gradient-free) and analyzing the efficiency of these algorithms. On the applied side, I seek to apply stochastic optimization methods in statisical learning related problems. 
+On the theoretical side, my research focuses on designing stochastic optimization algorithms (gradient-based or gradient-free) and analyzing the effeciency of these algorithms. On the applied side, I seek to apply stochastic optimization methods in statisical learning related problems. 
 
 
 
