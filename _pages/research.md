@@ -18,3 +18,14 @@ Preprints
   **Shiqing Sun**, and James C. Spall,\\
   _submitted_
 
+Talks
+---
+* **SPSA Method Using Diagonalized Hessian Estimate**\\
+  **Shiqing Sun**, and James C. Spall,\\
+  _2019 IEEE 58th Conference on Decision and Control (CDC)_, Dec. 12th, 2019\\
+  [[booklet]](https://cdc2019.ieeecss.org/files/CDC2019Booklet.pdf)
+  
+* **Recursive Optimization Using Diagonalized Hessian Estimate and Its Application in EM**\\
+  **Shiqing Sun**, and James C. Spall,\\
+  _2019 IEEE 58th Conference on Decision and Control (CDC)_, Jul. 29th, 2019\\
+  [[abstract]](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=307324)
