@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shiqing (Warren) Sun"
+title: "Shiqing Sun"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
