@@ -16,6 +16,7 @@ Education
 
 Work experience
 ---
+* Summer 2020: Applied Scientist Intern at Amazon Inc.
 * Summer 2019: Machine Learning Intern at Parametric Portfolios Associates LLC.
 * Summer 2018: Quantitative Research Intern at Graphen Inc.
   
